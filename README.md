@@ -10,9 +10,10 @@ Included are my Springboard exercises and mini projects.
 3. In 2. above you will notice that some entries have only the code and the name is missing. Create a dataframe with the missing names filled in.
 
 *SQL Mini Project:*
-Consists of 10 questions about a "country_club" database. 
-The database contains 3 tables:
-    i) the "Bookings" table,
-    ii) the "Facilities" table, and
-    iii) the "Members" table.
+File: 1520094343_sql_project.sql  
+Consists of 10 questions about a "country_club" database.   
+The database contains 3 tables:  
+    i) the "Bookings" table,  
+    ii) the "Facilities" table, and  
+    iii) the "Members" table.  
 
