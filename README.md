@@ -48,9 +48,9 @@ Consists of a tutorial and worked through questions introducing Frequentist Infe
 
 *Frequentist Inference B*
 Consists of a tutorial and worked through problems furthering the explanation of frequentist inference. 
-It includes practice working with real world hospital data. The exercises work through: 
-Having completed this project notebook, you now have good hands-on experience:
+It includes practice working with real world data. I answer two questions: 1) Has the hospital's revenue stream fallen below a key threshold?, and 2) Are patients with insurance really charged different amounts than those without?  
 
+The exercises work through:
 - using the central limit theorem to help you apply frequentist techniques to answer questions that pertain to very non-normally distributed data from the real world
 - performing inference using such data to answer business questions
 - forming a hypothesis and framing the null and alternative hypotheses
