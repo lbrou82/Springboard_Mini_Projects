@@ -57,3 +57,10 @@ The exercises work through:
 - testing this using a t-test
 
 
+**Bootstrap Inference Mini Project**  
+Files: inferential_statistics_2-Q.ipynb
+
+The exercises work through: 
+- calculating the same confidence interval lower limit as you did previously
+- testing the assumption that the variances of the two groups (insured vs. non-insured) were equal - something a bit harder to do using the frequentist method because of the nature of the sampling distribution for variance
+-calculating the p-value for the difference between the means of the two groups and compared with the result obtained using the previous frequentist approach
