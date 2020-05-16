@@ -64,3 +64,8 @@ The exercises work through:
 - calculating the same confidence interval lower limit as you did previously
 - testing the assumption that the variances of the two groups (insured vs. non-insured) were equal - something a bit harder to do using the frequentist method because of the nature of the sampling distribution for variance
 -calculating the p-value for the difference between the means of the two groups and compared with the result obtained using the previous frequentist approach
+
+**Bayesian Inference Mini Project:**
+File: inferential_statistics_3-Q.ipynb
+
+This mini project uses the same dataset as the previous two (Bootstrap and Frequentist). We look at modeling individual charges as a gamma distribution and using Bayesian inference. 
