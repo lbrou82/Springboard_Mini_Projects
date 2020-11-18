@@ -4,7 +4,7 @@ following link:
 
 https://sql.springboard.com/
 Username: student
-Password: learn_sql@springboard
+Password: *********
 
 The data you need is in the "country_club" database. This database
 contains 3 tables:
